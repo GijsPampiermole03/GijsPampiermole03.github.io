@@ -1,0 +1,14 @@
+:root {
+  --black: black;
+  --plum: rgb(230, 173, 236);
+  --white: white;
+}
+
+body {
+  font-family: 'Josefin Slab', serif;
+}
+
+.container-fluid {
+  padding: 0px;
+  margin: 0px;
+}
